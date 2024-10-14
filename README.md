@@ -1,7 +1,7 @@
 # Serkan Kayaoğlu
 
-![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/serkan-kayaoglu-034a401b/)
-![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)(https://x.com/0xKayaoglu)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serkan-kayaoglu-034a401b/)
+[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/0xKayaoglu)
 
 # Back-End
 ![name](https://img.shields.io/badge/PHP%207+-2196f3?style=for-the-badge&logo=php&logoColor=white)
